@@ -1,1 +1,3 @@
-# Sobre-mim
+<p align="center"><img src="https://cdn.discordapp.com/attachments/947910673470480397/973032740440113202/Arrays1.png"></p>
+
+<p align="center">Esse projeto é uma breve apresentação de quem sou. Nele pretendo compartilhar coisas que não se percebem apenas por códigos...</p><p align="center">Deixo explícitamente meus agradecimentos a minha mãe e fonte de inspiração, <b>Tatiana Santos Caetano</b>, obrigado por todo amor e apoio!</p><p align="center">E também agradeço ao meu professor e incentivador <b>Gabriel Augusto Sandins Teixeira de Azevedo</b>, obrigado pela forma excepcional com que conduz suas aulas, você é incrível!</p>
